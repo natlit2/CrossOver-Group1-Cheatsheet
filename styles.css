@@ -7,9 +7,13 @@
 
 .col {
   display: grid;
-  border: 1px solid;
 }
 
 .coltwo {
   margin-top: 45px;
+}
+
+#mainheader {
+  background-color: blueviolet;
+  padding: 20px 20px;
 }
