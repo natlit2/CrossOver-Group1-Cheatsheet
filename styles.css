@@ -1,12 +1,15 @@
-.container{
-    display: grid;
-    grid-template-columns: auto;
-    border: 1px solid grey;
-    align-content: center;
-    margin-top: 10px;
+.container {
+  display: grid;
+  grid-template-columns: auto;
+  align-content: center;
+  margin-top: 10px;
 }
 
-.col{
-    display: grid;
-    border: 1px solid ;
+.col {
+  display: grid;
+  border: 1px solid;
+}
+
+.coltwo {
+  margin-top: 45px;
 }
